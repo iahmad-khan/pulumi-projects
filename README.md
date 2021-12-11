@@ -1,8 +1,8 @@
 # pulumi projects
 
-- ECS, Deployments
-- EKS and Kubernetes Deployments
-- GKE and Kubernetes Deployments
-- DO KE, and  Kubernetes Deployments
-- Docker
-- Kubernetes
+- Setup ECS, and app Deployments
+- Setup EKS and Kubernetes app Deployments
+- Setup GKE and Kubernetes app Deployments
+- Setup DO KE, and  Kubernetes app Deployments
+- Using Pulumi for Docker resources
+- Using Pulumi for Kubernetes resources
